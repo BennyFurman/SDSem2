@@ -1,0 +1,28 @@
+{
+  "id": "bc2ac165-efa5-48f8-9285-12bf7ea2d1e6",
+  "name": "SD Seminar",
+  "publisher": "D. E. veloper",
+  "brief": "My Awesome seminar",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ],
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
