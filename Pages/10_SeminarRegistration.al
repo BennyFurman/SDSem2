@@ -148,6 +148,15 @@ page 50110 "CSD Seminar Registration"
                     RunPageLink = "Document No." = Field ("No.");
                 }
             }
+            action(ActionName)
+            {
+                ApplicationArea = All;
+                
+                trigger OnAction()
+                begin
+                    
+                end;
+            }
         }
         area(Processing)
         {

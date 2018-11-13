@@ -38,7 +38,7 @@ table 50110 "CSD Seminar Reg. Header"
         {
             Caption = 'Seminar No.';
             TableRelation = "CSD Seminar";
-
+            
             trigger OnValidate();
             begin
                 if "Seminar No." <> xRec."Seminar No." then begin
