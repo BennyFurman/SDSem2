@@ -24,7 +24,7 @@ tableextension 50100 "CSD ResourceExt" extends Resource
             OptionCaption = 'Internal,External';
             DataClassification = ToBeClassified;
         }
-        field(50102; "CSD Maximun Participants"; Integer)
+        field(50102; "CSD Maximum Participants"; Integer)
         {
             Caption = 'Maximun Participants';
             DataClassification = ToBeClassified;
